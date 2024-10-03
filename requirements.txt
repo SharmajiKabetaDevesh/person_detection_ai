@@ -1,0 +1,10 @@
+opencv-python
+dlib
+setuptools
+face-recognition
+numpy
+matplotlib
+geocoder
+streamlit
+twilio
+
