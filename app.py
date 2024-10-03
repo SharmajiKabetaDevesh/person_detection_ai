@@ -12,6 +12,7 @@ import tempfile
 
 def smsMe(name, lat, long):
     print(f'This person {name} was detected at lat {lat} and long {long}')
+    st.write(f'This person {name} was detected at lat {lat} and long {long}')
     print(1)
   
 
